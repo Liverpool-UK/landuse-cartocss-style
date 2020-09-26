@@ -1,8 +1,11 @@
-CyclOSM
-=======
+Landuse CartoCSS
+================
 
-CyclOSM is a [CartoCSS](https://carto.com/developers/styling/cartocss/) map style
-designed with cycling in mind. It leverages
+This is a CartoCSS style to emphasize different landuse types.  It is being developed to explore the 15minutecity ideas as [detailed here](https://github.com/Liverpool-UK/15-minute-city/issues/13).
+
+It is derived from the excellent [CyclOSM](https://github.com/cyclosm/cyclosm-cartocss-style) map style.
+
+It leverages
 [OpenStreetMap](https://www.openstreetmap.org/) data to create a beautiful and
 practical cycling map!
 
